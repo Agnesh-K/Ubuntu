@@ -40,36 +40,121 @@
      ```
      su
      ```
-  4. 
-  5. r
-  6. r
-  7. r
-  8. r
-  9. r
-  10. r
-  11. r
-  12. r
-  13. r
-  14. r
-  15. r
-  16. r
-  17. r
-  18. r
-  19. r
-  20. r
-  21. rr
-  22. r
-  23. r
-  24. r
-  25. r
-  26. r
-  27. r
-  28. r
-  29. r
-  30. r
-  31. r
-  32. r
-  33. r
+     ```
+     sudo bash
+     ```
+  4. view file contents
+     ```
+     cat <filename>
+     ```
+  6. view file contnts in reverse order
+     ```
+     tac <filename>
+     ```
+  8. view manual related to file
+     ```
+     man <filename>
+     ```
+  9. shutdown/halt system in next minute
+     ```
+     sudo shutdown -h
+     ```
+  10. schedule shutdown system at NN:NN time
+     ```
+     sudo shutdown -h <NN:NN> 
+     ```
+  11. restart system in next minute
+     ```
+     sudo shutdown -r
+     ```
+  12. schedule system restart at NN:NN time
+     ```
+     sudo shutdown -r
+     ```
+  13. cancel prior given shutdown restart command
+     ```
+     sudo shutdown -c
+     ```
+  14. view file contents
+     ```
+     cat <filename>
+     ```
+  15. view file contents
+     ```
+     cat <filename>
+     ```
+  16. view file contents
+     ```
+     cat <filename>
+     ```
+  17. view file contents
+     ```
+     cat <filename>
+     ```
+  18. view file contents
+     ```
+     cat <filename>
+     ```
+  19. view file contents
+     ```
+     cat <filename>
+     ```
+  20. view file contents
+     ```
+     cat <filename>
+     ```
+  21. view file contents
+     ```
+     cat <filename>
+     ```
+  22. view file contents
+     ```
+     cat <filename>
+     ```
+  23. view file contents
+     ```
+     cat <filename>
+     ```
+  24. view file contents
+     ```
+     cat <filename>
+     ```
+  25. view file contents
+     ```
+     cat <filename>
+     ```
+  26. view file contents
+     ```
+     cat <filename>
+     ```
+  27. view file contents
+     ```
+     cat <filename>
+     ```
+  28. view file contents
+     ```
+     cat <filename>
+     ```
+  29. view file contents
+     ```
+     cat <filename>
+     ```
+  30. view file contents
+     ```
+     cat <filename>
+     ```
+  31. view file contents
+     ```
+     cat <filename>
+     ```
+  32. view file contents
+     ```
+     cat <filename>
+     ```
+  33. view file contents
+     ```
+     cat <filename>
+     ```
   34. r
   35. r
   36. r
@@ -85,7 +170,10 @@
   46. r
   47. r
   48. r
-  49. 
+  49. r
+  50. r
+  51. r
+  52. 
 
 
      
