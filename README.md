@@ -29,7 +29,69 @@
     ![Screenshot (28)](https://github.com/Agnesh-K/Ubuntu/assets/154126091/3469ffcc-e90e-4cd3-9c76-3b75c35d5111)
 
 ## Basics of using Ubuntu:
-  1.  fff
+  1. Use ALT+CTRL+T to open Terminal also called the command-line interface (CLI) which is a text-based interface for users to interact with the O.S. by typing commands.
+     ![Screenshot (29)](https://github.com/Agnesh-K/Ubuntu/assets/154126091/d174d9c1-b4c9-44a0-916f-b4724e342f0b)
+  2. Set password for root user: (for security password enetered is not shown in linux)
+     ```
+     sudo root passwd
+     ```
+     ![Screenshot (31)](https://github.com/Agnesh-K/Ubuntu/assets/154126091/9359dcc0-d5b8-4eb0-8d9b-2a2119e88d28)
+  3. Switch user to root
+     ```
+     su
+     ```
+  4. 
+  5. r
+  6. r
+  7. r
+  8. r
+  9. r
+  10. r
+  11. r
+  12. r
+  13. r
+  14. r
+  15. r
+  16. r
+  17. r
+  18. r
+  19. r
+  20. r
+  21. rr
+  22. r
+  23. r
+  24. r
+  25. r
+  26. r
+  27. r
+  28. r
+  29. r
+  30. r
+  31. r
+  32. r
+  33. r
+  34. r
+  35. r
+  36. r
+  37. r
+  38. r
+  39. r
+  40. r
+  41. r
+  42. r
+  43. r
+  44. r
+  45. r
+  46. r
+  47. r
+  48. r
+  49. 
+
+
+     
+
+      
+
 
 
 
