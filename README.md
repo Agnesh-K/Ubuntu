@@ -29,7 +29,7 @@
     ![Screenshot (28)](https://github.com/Agnesh-K/Ubuntu/assets/154126091/3469ffcc-e90e-4cd3-9c76-3b75c35d5111)
 
 ## Basics of using Ubuntu:
-  - 
+  1.  fff
 
 
 
