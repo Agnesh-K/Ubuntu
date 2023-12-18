@@ -20,7 +20,7 @@
   - Make sure you have VMware installed on your computer. Create a VM with Ubuntu Desktop OS. If you need assistance please refer to https://github.com/Agnesh-K/VMware
   - The VM will boot from the Ubuntu ISO.
     ![Screenshot (22)](https://github.com/Agnesh-K/Ubuntu/assets/154126091/7854a61e-2e46-4410-8912-52f2e31abaac)
-  - Choose your language, keyboard layout, and other preferences. Follow the on-screen instructions to install Ubuntu.
+  - Choose your language, keyboard layout, and other preferences.
     ![Screenshot (23)](https://github.com/Agnesh-K/Ubuntu/assets/154126091/09e0209e-2b9d-4d48-be4e-4a7af779b120)
   - Follow the on-screen instructions to install Ubuntu. Allow the installation process to complete.
     ![Screenshot (25)](https://github.com/Agnesh-K/Ubuntu/assets/154126091/9cded07c-9fa6-4b74-9ff5-d105ecb7798b)
