@@ -43,7 +43,7 @@
      
   3. Set password for root user: (for security password enetered is not shown in linux)
      ```
-     sudo root passwd
+     sudo passwd root
      ```
      
      ![Screenshot (31)](https://github.com/Agnesh-K/Ubuntu/assets/154126091/9359dcc0-d5b8-4eb0-8d9b-2a2119e88d28)
